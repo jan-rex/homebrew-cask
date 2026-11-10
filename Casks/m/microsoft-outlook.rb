@@ -18,8 +18,8 @@ cask "microsoft-outlook" do
     end
   end
   on_sonoma :or_newer do
-    version "16.114.26102720"
-    sha256 "f91c8e06a4fb9fcd0a7d3b4f0a189f73ab361306f01125f54b60a81d9e7ca766"
+    version "16.115.26110837"
+    sha256 "89a5f392de320615c0940716d19778d8c1ef3a012130147aef87d000a0c25675"
 
     livecheck do
       url "https://go.microsoft.com/fwlink/p/?linkid=525137"
